@@ -31,6 +31,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.RawImage
   serializedClasses:
     Unity.TextMeshPro:
     - TMPro.FaceInfo_Legacy
@@ -187,6 +188,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 1580}
     - Class: 114
       Script: {instanceID: 2156}
+    - Class: 114
+      Script: {instanceID: 2282}
     - Class: 114
       Script: {instanceID: 2572}
     - Class: 114
